@@ -1,0 +1,16 @@
+{
+    "name": "capsolver-project",
+    "version": "1.0.0",
+    "description": "A Puppeteer project with additional plugins for stealth and reCAPTCHA handling.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "puppeteer-extra": "^3.3.6",
+        "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+        "puppeteer-extra-plugin-stealth": "^2.11.2"
+    },
+    "author": "",
+    "license": "ISC"
+}
